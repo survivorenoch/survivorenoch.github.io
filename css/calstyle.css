@@ -67,16 +67,16 @@ a {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 280px;
-    height: 400px;
+    height: auto;
     overflow: hidden;
   }
   .main input {
     cursor: pointer;
-    font-size: 25px;
+    font-size: 20px;
     background: #333333;
     color: #fff;
-    width: 67px;
-    height: 67px;
+    width: 66px;
+    height: 66px;
     margin-top: 5px;
     transition: 0.3s;
   }
