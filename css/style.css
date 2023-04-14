@@ -1,6 +1,6 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap");
 * {
-  font-family: "Poppins", sans-serif;
+  font-family: "DM Serif Display", serif;
   margin: 0;
   padding: 0;
   scroll-padding-top: 2rem;
@@ -94,7 +94,7 @@ header {
 }
 .cart-product-title {
   font-size: 1rem;
-  text-transform: uppercase;
+  font-style: italic;
 }
 .cart-price {
   font-weight: 500;
@@ -185,7 +185,7 @@ header {
 .product-title {
   font-size: 1.1rem;
   font-weight: 600;
-  text-transform: uppercase;
+  font-style: italic;
   margin-bottom: 0.5rem;
 }
 .price {
