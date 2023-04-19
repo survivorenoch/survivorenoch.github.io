@@ -160,6 +160,12 @@ header {
 }
 .hero {
   margin-top: 3.5rem;
+  margin-bottom: 0;
+  background-color: #000000;
+}
+.exhi {
+  padding: 0;
+  margin: 0;
 }
 .shop {
   margin-top: 1.5rem;
