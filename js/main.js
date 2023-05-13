@@ -48,7 +48,7 @@ function ready() {
 }
 //buy button
 function buyButtonClicked() {
-  alert("WOW!YOR ARE IN SPACE!");
+  alert("WOW!YOU HAVE BEEN ADDED TO THE WAITING LIST!");
   var cartContent = document.getElementsByClassName("cart-content")[0];
   while (cartContent.hasChildNodes()) {
     cartContent.removeChild(cartContent.firstChild);
